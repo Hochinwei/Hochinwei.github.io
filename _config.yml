@@ -40,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jebartlett94@gmail.com"
-  facebook: deanattali
+#  facebook: deanattali
   github: BartlettJE
   twitter: JamesEBartlett
 #  patreon: DeanAttali
-  youtube: UC_aCIc3wFK0Xk1pT89X6ZJw
+  youtube: https://www.youtube.com/channel/UC_aCIc3wFK0Xk1pT89X6ZJw
 #  medium: yourname
 #  reddit: yourname
   linkedin: james-bartlett-86b06b121
@@ -61,7 +61,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
   ORCID: 0000-0002-4191-5245
-  google-scholar: i63C4yUAAAAJ&hl
+  google-scholar: https://scholar.google.com/citations?user=i63C4yUAAAAJ&hl=en
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
