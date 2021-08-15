@@ -3,17 +3,13 @@ layout: page
 title: About
 ---
 
-I’m James Bartlett, a Psychology Lecturer at Arden University, UK. I'm currently writing up my PhD which I have been doing part-time at Coventry University since 2015. I will hopefully be submitting early 2020. 
+I’m James Bartlett, senior lecturer in psychology at Arden University, UK. I completed my PhD at Coventry University in 2020, where I also finished an undergraduate psychology degree in 2015.
 
-Research is difficult and there are many things that I wish I was told earlier, or worked out for myself sooner. My aim here is to share some useful tips that you may not be aware of, or just provide an account of my experiences. It is also a place I share research and materials I have worked on. 
+I am a teaching-focused lecturer where I lead modules on research methods and statistics. My background from my PhD is in cognitive neuroscience and smoking/addictive behaviour, but I now focus on research methods pedagogy and collaborations where my expertise in statistics is useful.
 
-The content of this website consists mainly of:
+I spend most of my time developing open educational resources on research methods and statistics. On the resources page, you will find guides to power analysis, JASP, and building experiments using OpenSesame/PsychoPy. 
 
-- Research methods and statistics
-- Tutorials
-- Post-graduate student and faculty experiences
-- My research
-- Tips for conducting research
+Research is difficult and there are many things that I wish I was told earlier, or worked out for myself sooner. My aim here is to share some useful tips that you may not be aware of, or just provide an account of my experiences. It is also a place I share research and materials I have worked on.
 
 ## Acknowledgements
-I originally had a blog through WordPress, but I wanted something more flexible to easily include code. This would not have been possible without the template created by Dean Attali who made [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/). I would recommend starting with his template if you plan on migrating to Github pages and know nothing about html. 
+I originally had a blog through WordPress, but I wanted something more flexible to easily include code. This would not have been possible without the template created by Dean Attali who made [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/). I would recommend starting with his template if you plan on migrating to Github pages and know nothing about html.
