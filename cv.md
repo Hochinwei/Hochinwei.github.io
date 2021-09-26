@@ -18,8 +18,11 @@ My detailed CV can be found [here]({{ site.baseurl }}/pdfs/cv-james-bartlett.pdf
 
 # Teaching positions
 
+## Lecturer in Psychology
+Univerity of Glasgow, UK, September 2021 - Present
+
 ## Senior Lecturer in Psychology
-Arden University, UK, April 2021 - Present
+Arden University, UK, April 2021 - September 2021
 
 ## Lecturer in Psychology
 Arden University, UK, January 2018 - April 2021
