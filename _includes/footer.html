@@ -21,8 +21,8 @@
         &nbsp;&bull;&nbsp;
         <span class="author-site">
           <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
+          <img src="/img/by.png" alt="CC BY Licence" width="50" height="60">
         </span>
-        <img src="/img/by.png" alt="CC BY Licence" width="50" height="60">
       {% endif %}
 
       {% if site.matomo %}
