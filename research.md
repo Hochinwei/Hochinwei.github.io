@@ -6,9 +6,11 @@ subtitle: Preprints, publications, and presentations.
 
 ## Pre-prints
 
-- Palmer, C. & **Bartlett, J. E.** (2021, June 6). Does religiosity inhibit the proclivity to self-forgive?. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/eca5j).
+- **Bartlett, J. E.** & Charles, S. J. (2021, December 10). Power to the People: A Beginner’s Tutorial to Power Analysis using jamovi. [PsyArXiv](https://psyarxiv.com/bh8m9/).
 
-- **Bartlett, J. E.**, Jenks, R., & Wilson, N. (2020, August 22). No Difference in Trait-Level Attentional Bias Between Daily and Non-Daily Smokers. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/cn64d/m).
+- **Bartlett, J. E.**, Jenks, R., & Wilson, N. (2021, December 11). No Difference in Trait-Level Attentional Bias Between Daily and Non-Daily Smokers. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/cn64d/m).
+
+- Palmer, C. & **Bartlett, J. E.** (2021, June 6). Does religiosity inhibit the proclivity to self-forgive?. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/eca5j).
 
 ## Publications
 
