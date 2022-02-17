@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I’m James Bartlett, lecturer in psychology at the University of Glasgow, UK. I completed my PhD at Coventry University in 2020, where I also finished an undergraduate psychology degree in 2015.
+I’m Dr James Bartlett, lecturer in psychology at the University of Glasgow, UK. I completed my PhD at Coventry University in 2020, where I also finished an undergraduate psychology degree in 2015.
 
 I am a teaching-focused lecturer where I lead a course on research methods and statistics. My background from my PhD is in cognitive neuroscience and smoking/addictive behaviour, but I now focus on research methods pedagogy and collaborations where my expertise in statistics is useful.
 
