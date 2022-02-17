@@ -6,6 +6,8 @@ subtitle: Preprints, publications, and presentations.
 
 ## Pre-prints
 
+### 2021
+
 - **Bartlett, J. E.** & Charles, S. J. (2021, December 10). Power to the People: A Beginner’s Tutorial to Power Analysis using jamovi. [PsyArXiv](https://psyarxiv.com/bh8m9/).
 
 - **Bartlett, J. E.**, Jenks, R., & Wilson, N. (2021, December 11). No Difference in Trait-Level Attentional Bias Between Daily and Non-Daily Smokers. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/cn64d/m).
@@ -44,6 +46,10 @@ subtitle: Preprints, publications, and presentations.
 - Bartlett, J. E., Jenks, R. A., Wilson, N.E, Farias, M. The Differences in Smoking Habits, Motives, and Attentional Bias in Nicotine Dependent and Non-Dependent Smokers. My thesis from this project can be found on [ResearchGate](https://www.researchgate.net/publication/296623691_The_Difference_in_Smoking_Motives_Habits_and_Attentional_Bias_in_Nicotine_Dependent_and_Non-Dependent_Smokers). If you interested in the project or want the results for a meta-analysis, the results have been written up in this [post](https://bartlettje.github.io/2017-07-07-Attentional-bias-in-smokers-file-drawer/).
 
 ## Invited workshops and seminars
+
+### 2022
+
+- **Bartlett, J. E.** & Charles, S.J. A Beginner’s Tutorial to Power Analysis using jamovi. Open Science Community Rotterdam. Slides available on the [OSF](https://osf.io/zrcuh/).
 
 ### 2021
 
