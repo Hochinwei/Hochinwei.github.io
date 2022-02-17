@@ -13,6 +13,8 @@ One of my most popular open educational resources is a beginners guide demonstra
 - Power analysis using jamovi
 - Power analysis for factorial designs using the SuperPower app
 
+If you use the guide, please consider citing it: Bartlett, J.E. (2022, February 1). Introduction to Power Analysis: A Guide to G*Power, jamovi, and Superpower. https://osf.io/zqphw/. DOI: 10.17605/OSF.IO/PCFVJ.
+
 # OSF preregistration R Markdown template
 
 When I preregister a study, my favourite template to use was the OSF preregistration challenge. Now that the challenge has finished, the COS have created an updated template. When you select a template on the OSF, there is the option to include an R script to demonstrate something like a power analysis or planned analysis. I thought it would be a good idea to streamline this process and combine the preregistration template with the power of R.
