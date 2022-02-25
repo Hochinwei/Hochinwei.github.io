@@ -16,6 +16,10 @@ subtitle: Preprints, publications, and presentations.
 
 ## Publications
 
+### 2022
+
+- Parsons, S., Azevedo, F., Elsherif, M.M. et al. (2022). A community-sourced glossary of open scholarship terms. [Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01269-4). https://doi.org/10.1038/s41562-021-01269-4.
+
 ### 2021
 
 - Pennington, C. R., Jones, A., **Bartlett, J.E.**, Copeland, A., & Shaw, D. J. (2021). Raising the bar: Improving methodological rigour in cognitive alcohol research. [Addiction](https://onlinelibrary.wiley.com/doi/10.1111/add.15563).
