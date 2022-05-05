@@ -8,8 +8,6 @@ subtitle: Preprints, publications, and presentations.
 
 ### 2021
 
-- **Bartlett, J. E.** & Charles, S. J. (2021, December 10). Power to the People: A Beginner’s Tutorial to Power Analysis using jamovi. [PsyArXiv](https://psyarxiv.com/bh8m9/).
-
 - **Bartlett, J. E.**, Jenks, R., & Wilson, N. (2021, December 11). No Difference in Trait-Level Attentional Bias Between Daily and Non-Daily Smokers. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/cn64d/m).
 
 - Palmer, C. & **Bartlett, J. E.** (2021, June 6). Does religiosity inhibit the proclivity to self-forgive?. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/eca5j).
@@ -18,7 +16,11 @@ subtitle: Preprints, publications, and presentations.
 
 ### 2022
 
+- **Bartlett, J. E.** & Charles, S. J. (2022). Power to the People: A Beginner’s Tutorial to Power Analysis using jamovi. In press at *Meta Psychology*. Preprint available from [PsyArXiv](https://psyarxiv.com/bh8m9/).
+
 - Parsons, S., Azevedo, F., Elsherif, M.M. et al. (2022). A community-sourced glossary of open scholarship terms. [Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01269-4). https://doi.org/10.1038/s41562-021-01269-4.
+
+- PsyTeachR Team. (2022). Open-source tutorials benefit the field. *Nature Reviews Psychology*, 1–2. https://doi.org/10.1038/s44159-022-00058-8
 
 ### 2021
 
