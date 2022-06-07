@@ -46,10 +46,17 @@ subtitle: Preprints, publications, and presentations.
 
 - Bhogal, M.S., **Bartlett, J.E.**, and Farrelly, D. (2018). The Influence of Mate Choice Motivation on Non-Financial Altruism. *[Current Psychology](https://link.springer.com/article/10.1007/s12144-018-0070-x)*. Accepted author version freely available at [PsyArXiv](https://psyarxiv.com/gc8en/). Data and materials available on the [OSF](https://osf.io/cfzyb/).
 
-## Unpublished research
+## Guest writing
 
-### 2015
-- Bartlett, J. E., Jenks, R. A., Wilson, N.E, Farias, M. The Differences in Smoking Habits, Motives, and Attentional Bias in Nicotine Dependent and Non-Dependent Smokers. My thesis from this project can be found on [ResearchGate](https://www.researchgate.net/publication/296623691_The_Difference_in_Smoking_Motives_Habits_and_Attentional_Bias_in_Nicotine_Dependent_and_Non-Dependent_Smokers). If you interested in the project or want the results for a meta-analysis, the results have been written up in this [post](https://bartlettje.github.io/2017-07-07-Attentional-bias-in-smokers-file-drawer/).
+### 2021
+
+[Sharing Research Materials Online: Why You Should and How You Can](https://gorilla.sc/sharing-research-materials-online-why-you-should-and-how-you-can/). Guest blog for Gorilla.io. 
+
+### 2016
+
+[Publishing a Registered Report as a Postgraduate Researcher](https://blog.efpsa.org/2016/09/09/publishing-a-registered-report-as-a-postgraduate-researcher/). Guest blog for the Journal of European Psychology Students. 
+
+[Do smokers consist of a single group?](https://blog.efpsa.org/2016/09/02/do-smokers-consist-of-a-single-group/). Guest blog for the Journal of European Psychology Students. 
 
 ## Invited workshops and seminars
 
@@ -89,3 +96,8 @@ subtitle: Preprints, publications, and presentations.
 
 ### 2015
 - **Bartlett, J. E.**, Jenks, R. A., Wilson, N.E, Farias, M. The Differences in Smoking Habits, Motives, and Attentional Bias in Nicotine Dependent and Non-Dependent Smokers. BPS Psychobiology Section Annual Scientific Meeting, Windermere UK. Available from [figshare.](https://figshare.com/articles/Attentional_Bias_in_Nicotine_Dependent_and_Non_Dependent_Smokers/3188959)
+
+## Unpublished research
+
+### 2015
+- Bartlett, J. E., Jenks, R. A., Wilson, N.E, Farias, M. The Differences in Smoking Habits, Motives, and Attentional Bias in Nicotine Dependent and Non-Dependent Smokers. My thesis from this project can be found on [ResearchGate](https://www.researchgate.net/publication/296623691_The_Difference_in_Smoking_Motives_Habits_and_Attentional_Bias_in_Nicotine_Dependent_and_Non-Dependent_Smokers). If you interested in the project or want the results for a meta-analysis, the results have been written up in this [post](https://bartlettje.github.io/2017-07-07-Attentional-bias-in-smokers-file-drawer/).
