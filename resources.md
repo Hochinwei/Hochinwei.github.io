@@ -15,6 +15,12 @@ One of my most popular open educational resources is a beginners guide demonstra
 
 If you use the guide, please consider citing it: Bartlett, J.E. (2022, February 1). Introduction to Power Analysis: A Guide to G*Power, jamovi, and Superpower. https://osf.io/zqphw/. DOI: 10.17605/OSF.IO/PCFVJ.
 
+# ScholaRship
+
+With my colleagues from the University of Glasgow and Edinburgh, we have started writing a series of tutorials on using R for the scholarship of teaching and learning. We recognised many resources out there either do not focus on scholarship research or do not use realistic messy data you could expect when working with student data. We are steadily building the book as a resource and currently we have: 
+- [Introduction](https://emilynordmann.github.io/scholaRship/intro.html) - Here we outline the motiviation behind our book and what knowledge we expect to engage with the book. 
+- [Creating synthetic datasets](https://emilynordmann.github.io/scholaRship/creating-synthetic-datasets.html) - I led on our first substantive chapter to demonstrate creating synthetic data sets when ethics concerns might limit sharing data from participants. Previous tutorials were highly technical or focused on topics researchers in the scholarship of teaching and learning might not resonate with, so we wanted to write an accessible introduction. 
+
 # OSF preregistration R Markdown template
 
 When I preregister a study, my favourite template to use was the OSF preregistration challenge. Now that the challenge has finished, the COS have created an updated template. When you select a template on the OSF, there is the option to include an R script to demonstrate something like a power analysis or planned analysis. I thought it would be a good idea to streamline this process and combine the preregistration template with the power of R.
