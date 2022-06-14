@@ -9,7 +9,7 @@ My detailed CV can be found [here]({{ site.baseurl }}/pdfs/cv-james-bartlett.pdf
 ## PhD in Psychology and Behavioural Sciences
  Coventry University, UK, September 2015 - December 2020
 
- Thesis title: _Light and Heavy Smokers: A Profile of Drive and Cognitive Control Mechanisms._
+ Thesis title: _Light and Heavy Smokers: A Profile of Drive and Cognitive Control Mechanisms._ Available from [Thesis Commons](https://thesiscommons.org/h9gpe/).
 
 ## BSc in Psychology
  Coventry University, UK, September 2012 - June 2015
