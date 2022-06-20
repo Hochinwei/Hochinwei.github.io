@@ -62,7 +62,7 @@ subtitle: Preprints, publications, and presentations.
 
 ### 2022
 
-**Bartlett, J. E.** & Toivo, W. Data visualisation using R, for researchers who don’t use R. SGSSS Summer School. Materials available as an [online book](https://wtoivo.github.io/SGSSS-data-viz-workshop/).
+- **Bartlett, J. E.** & Toivo, W. Data visualisation using R, for researchers who don’t use R. SGSSS Summer School. Materials available as an [online book](https://wtoivo.github.io/SGSSS-data-viz-workshop/).
 
 - **Bartlett, J. E.** & Charles, S.J. A Beginner’s Tutorial to Power Analysis using jamovi. Open Science Community Rotterdam. Slides available on the [OSF](https://osf.io/zrcuh/).
 
