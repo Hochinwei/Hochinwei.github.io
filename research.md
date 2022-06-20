@@ -50,17 +50,19 @@ subtitle: Preprints, publications, and presentations.
 
 ### 2021
 
-[Sharing Research Materials Online: Why You Should and How You Can](https://gorilla.sc/sharing-research-materials-online-why-you-should-and-how-you-can/). Guest blog for Gorilla.io. 
+[Sharing Research Materials Online: Why You Should and How You Can](https://gorilla.sc/sharing-research-materials-online-why-you-should-and-how-you-can/). Guest blog for Gorilla.io.
 
 ### 2016
 
-[Publishing a Registered Report as a Postgraduate Researcher](https://blog.efpsa.org/2016/09/09/publishing-a-registered-report-as-a-postgraduate-researcher/). Guest blog for the Journal of European Psychology Students. 
+[Publishing a Registered Report as a Postgraduate Researcher](https://blog.efpsa.org/2016/09/09/publishing-a-registered-report-as-a-postgraduate-researcher/). Guest blog for the Journal of European Psychology Students.
 
-[Do smokers consist of a single group?](https://blog.efpsa.org/2016/09/02/do-smokers-consist-of-a-single-group/). Guest blog for the Journal of European Psychology Students. 
+[Do smokers consist of a single group?](https://blog.efpsa.org/2016/09/02/do-smokers-consist-of-a-single-group/). Guest blog for the Journal of European Psychology Students.
 
 ## Invited workshops and seminars
 
 ### 2022
+
+**Bartlett, J. E.** & Toivo, W. Data visualisation using R, for researchers who don’t use R. SGSSS Summer School. Materials available as an [online book](https://wtoivo.github.io/SGSSS-data-viz-workshop/).
 
 - **Bartlett, J. E.** & Charles, S.J. A Beginner’s Tutorial to Power Analysis using jamovi. Open Science Community Rotterdam. Slides available on the [OSF](https://osf.io/zrcuh/).
 
