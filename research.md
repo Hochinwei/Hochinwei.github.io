@@ -8,7 +8,7 @@ subtitle: Preprints, publications, and presentations.
 
 ### 2021
 
-- **Bartlett, J. E.**, Jenks, R., & Wilson, N. (2021, December 11). No Difference in Trait-Level Attentional Bias Between Daily and Non-Daily Smokers. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/cn64d/m).
+- **Bartlett, J. E.**, Jenks, R., & Wilson, N. (2021, December 11). No Difference in Trait-Level Attentional Bias Between Daily and Non-Daily Smokers. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/cn64d).
 
 - Palmer, C. & **Bartlett, J. E.** (2021, June 6). Does religiosity inhibit the proclivity to self-forgive?. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/eca5j).
 
