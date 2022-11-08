@@ -16,7 +16,7 @@ subtitle: Preprints, publications, and presentations.
 
 ### 2022
 
-- **Bartlett, J. E.** & Charles, S. J. (2022). Power to the People: A Beginner’s Tutorial to Power Analysis using jamovi. In press at *Meta Psychology*. Preprint available from [PsyArXiv](https://psyarxiv.com/bh8m9/).
+- **Bartlett, J. E.** & Charles, S. J. (2022). Power to the People: A Beginner’s Tutorial to Power Analysis using jamovi. [*Meta Psychology*](https://open.lnu.se/index.php/metapsychology/article/view/3078), 6, 1-20. Preprint available from [PsyArXiv](https://psyarxiv.com/bh8m9/).
 
 - Parsons, S., Azevedo, F., Elsherif, M.M. et al. (2022). A community-sourced glossary of open scholarship terms. *[Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01269-4)*. https://doi.org/10.1038/s41562-021-01269-4.
 
