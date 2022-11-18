@@ -21,6 +21,10 @@ With my colleagues from the University of Glasgow and Edinburgh, we have started
 - [Introduction](https://emilynordmann.github.io/scholaRship/intro.html) - Here we outline the motiviation behind our book and what knowledge we expect to engage with the book. 
 - [Creating synthetic datasets](https://emilynordmann.github.io/scholaRship/creating-synthetic-datasets.html) - I led on our first substantive chapter to demonstrate creating synthetic data sets when ethics concerns might limit sharing data from participants. Previous tutorials were highly technical or focused on topics researchers in the scholarship of teaching and learning might not resonate with, so we wanted to write an accessible introduction. 
 
+# APA-style manuscripts with RMarkdown and papaja demonstration 
+
+For our Methods and Metascience group at the University of Glasgow, I delivered a talk on using papaja ([Aust & Barth, 2022](https://github.com/crsh/papaja)) to create reproducible APA-style manuscripts. When you download the template, it is easy to see how you complete the YAML, but as a template, the bulk of the manuscript is blank. Therefore, I created a mock example using just a few packages to show how you can use it for your own study. You can access the talk slides and mock example files [here on my Github repo](https://github.com/BartlettJE/papaja_demo).   
+
 # OSF preregistration R Markdown template
 
 When I preregister a study, my favourite template to use was the OSF preregistration challenge. Now that the challenge has finished, the COS have created an updated template. When you select a template on the OSF, there is the option to include an R script to demonstrate something like a power analysis or planned analysis. I thought it would be a good idea to streamline this process and combine the preregistration template with the power of R.
