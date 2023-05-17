@@ -12,6 +12,10 @@ subtitle: Preprints, publications, and presentations.
 
 ## Publications
 
+### 2023
+
+- Pownall, M., Azevedo, F., König, L. M., Slack, H. R., Evans, T. R., Flack, Z., Grinschgl, S., Elsherif, M. M., ... **Bartlett, J.E.,** ... & FORRT. (2023). Teaching open and reproducible scholarship: A critical review of the evidence base for current pedagogical methods and their outcomes. *Royal Society Open Science, 10*(5), 221255. https://doi.org/10.1098/rsos.221255. 
+
 ### 2022
 
 - **Bartlett, J. E.** & Charles, S. J. (2022). Power to the People: A Beginner’s Tutorial to Power Analysis using jamovi. [*Meta Psychology*](https://open.lnu.se/index.php/metapsychology/article/view/3078), 6, 1-20. Preprint available from [PsyArXiv](https://psyarxiv.com/bh8m9/).
