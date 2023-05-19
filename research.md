@@ -14,7 +14,7 @@ subtitle: Preprints, publications, and presentations.
 
 ### 2023
 
-- Pownall, M., Azevedo, F., König, L. M., Slack, H. R., Evans, T. R., Flack, Z., Grinschgl, S., Elsherif, M. M., ... **Bartlett, J.E.,** ... & FORRT. (2023). Teaching open and reproducible scholarship: A critical review of the evidence base for current pedagogical methods and their outcomes. *Royal Society Open Science, 10*(5), 221255. https://doi.org/10.1098/rsos.221255. 
+- Pownall, M., Azevedo, F., König, L. M., Slack, H. R., Evans, T. R., Flack, Z., Grinschgl, S., Elsherif, M. M., ... **Bartlett, J.E.,** ... & FORRT. (2023). Teaching open and reproducible scholarship: A critical review of the evidence base for current pedagogical methods and their outcomes. [*Royal Society Open Science*](https://doi.org/10.1098/rsos.221255), 10(5), 221255. https://doi.org/10.1098/rsos.221255. Available open access via the journal. 
 
 ### 2022
 
