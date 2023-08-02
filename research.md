@@ -6,6 +6,10 @@ subtitle: Preprints, publications, and presentations.
 
 ## Pre-prints
 
+### 2023
+
+- Thibault, R. T., Bailey-Rodriguez, D., **Bartlett, J. E.**, Blazey, P., Green, R. J., Pownall, M., & Munafo, M. R. (2023, July 21). A Delphi study to strengthen research methods training in undergraduate psychology programmes. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/gp9aj/).
+
 ### 2021
 
 - Palmer, C. & **Bartlett, J. E.** (2021, June 6). Does religiosity inhibit the proclivity to self-forgive?. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/eca5j).
