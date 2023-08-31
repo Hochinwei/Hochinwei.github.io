@@ -8,6 +8,8 @@ subtitle: Preprints, publications, and presentations.
 
 ### 2023
 
+- Stevenson, J. L., Mavromati, K., **Bartlett, J. E.**, Morrow, L., Moxey, L., & Dawydiak, E. J. (2023, August 31). Exploring writer vs content focused reference in written student feedback: mixed evidence from quantitative and content analysis results. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/wbme7/).
+
 - Thibault, R. T., Bailey-Rodriguez, D., **Bartlett, J. E.**, Blazey, P., Green, R. J., Pownall, M., & Munafo, M. R. (2023, July 21). A Delphi study to strengthen research methods training in undergraduate psychology programmes. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/gp9aj/).
 
 ### 2021
