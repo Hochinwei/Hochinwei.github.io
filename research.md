@@ -10,13 +10,15 @@ subtitle: Preprints, publications, and presentations.
 
 - Stevenson, J. L., Mavromati, K., **Bartlett, J. E.**, Morrow, L., Moxey, L., & Dawydiak, E. J. (2023, August 31). Exploring writer vs content focused reference in written student feedback: mixed evidence from quantitative and content analysis results. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/wbme7/).
 
-- Thibault, R. T., Bailey-Rodriguez, D., **Bartlett, J. E.**, Blazey, P., Green, R. J., Pownall, M., & Munafo, M. R. (2023, July 21). A Delphi study to strengthen research methods training in undergraduate psychology programmes. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/gp9aj/).
-
 ### 2021
 
 - Palmer, C. & **Bartlett, J. E.** (2021, June 6). Does religiosity inhibit the proclivity to self-forgive?. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/eca5j).
 
 ## Publications
+
+### 2024
+
+- Thibault, R.T., Bailey-Rodriguez, D., **Bartlett, J.E.**, Blazey, P., Green, R.J., Pownall, M. & Munafó, M.R. (2024). A Delphi Study to Strengthen Research-Methods Training in Undergraduate Psychology Programs. *[Advances in Methods and Practices in Psychological Science](https://doi.org/10.1177/25152459231213808), 7*(1). 10.1177/25152459231213808. Available open access via the journal. 
 
 ### 2023
 
