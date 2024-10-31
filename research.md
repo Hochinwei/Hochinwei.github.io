@@ -6,6 +6,10 @@ subtitle: Preprints, publications, and presentations.
 
 ## Pre-prints
 
+### 2024
+
+- **Bartlett, J. E.** (2024, October 29). Using Open Data to Create Applied Statistics Assessments on Reproducibility and Replicability. Pre-print and supporting materials available on [PsyArXiv](https://osf.io/preprints/osf/nce4y).
+
 ### 2023
 
 - Stevenson, J. L., Mavromati, K., **Bartlett, J. E.**, Morrow, L., Moxey, L., & Dawydiak, E. J. (2023, August 31). Exploring writer vs content focused reference in written student feedback: mixed evidence from quantitative and content analysis results. Pre-print, data, and code available on [PsyArXiv](https://psyarxiv.com/wbme7/).
