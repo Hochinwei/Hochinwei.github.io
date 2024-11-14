@@ -93,6 +93,14 @@ post_search: true
 # The keywords to associate with your website, for SEO purposes
 keywords: "Chin Wei, psychology, statistics, bayesian statistics, Artificial Intelligence, AI, AI-imagery, AI acceptance, University of Hull"
 
+# --- Additional themes --- #
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+  # Set the preferred skin here
+  
+skin: dark
+
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
@@ -230,6 +238,11 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
