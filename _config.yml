@@ -99,8 +99,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
   # Set the preferred skin here
 
-skin: dark
-
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
@@ -228,6 +226,8 @@ defaults:
 exclude:
   - CHANGELOG.md
   - CNAME
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
   - screenshot.png
