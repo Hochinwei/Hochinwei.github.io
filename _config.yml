@@ -14,9 +14,9 @@ author: Ho Chin Wei
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  About: "aboutme"
   Blog: "index"
   Resources: "resources"
-  About: "aboutme"
   CV: "cv"
   Research: "research"
 
@@ -42,15 +42,15 @@ social-network-links:
   email: "hochinwei79@gmail.com"
 #  facebook: deanattali
   github: Hochinwei
-  twitter: @HoChinWei_
+  twitter: "@HoChinWei_"
 #  patreon: DeanAttali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/hochinwei/
+  linkedin: "https://www.linkedin.com/in/hochinwei/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: @hochinwei
+  instagram: "@hochinwei"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
